@@ -1,0 +1,38 @@
+{
+  "movies": [
+    {
+      "id": 0,
+      "title": "Shrek 2",
+      "director": "Andrew Adamson",
+      "image_url": "https://m.media-amazon.com/images/I/51JRZD0UqkL._AC_.jpg"
+    },
+    {
+      "id": 1,
+      "title": "RoboCop 2",
+      "director": "Irvin Kershner",
+      "image_url": "https://m.media-amazon.com/images/I/91LMFjvVo4L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Predator 2",
+      "director": "Stephen Hopkins",
+      "image_url": "https://m.media-amazon.com/images/I/71zdq1CebvL._AC_SY741_.jpg"
+    }
+  ],
+  "music": [
+    {
+      "id": 0,
+      "title": "Lysol",
+      "artist": "Melvins",
+      "url": "https://www.youtube.com/watch?v=JtO_Awk4pqU",
+      "album_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Melvins-lysol-melvins.jpg/220px-Melvins-lysol-melvins.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "album_image_url": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1"
+    }
+  ]
+}

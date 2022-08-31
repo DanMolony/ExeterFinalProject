@@ -1,0 +1,12 @@
+h4 {
+  font-size: 200px;
+  text-align: center;
+  color: rgb(23, 233, 104);
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+div {
+  text-align: center;
+  color: rgb(23, 233, 104);
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  width: 100%;
+}

@@ -1,0 +1,15 @@
+<div id="header">
+  <nav>
+    <a class="btn" routerLink="greeting" routerLinkActive="active">Home</a>
+    <a class="btn" routerLink="skills" routerLinkActive="active">Reviews</a>
+    <a class="btn" routerLink="message" routerLinkActive="active">Message</a>
+    <a class="btn" routerLink="music" routerLinkActive="active">Music</a>
+    <a class="btn" routerLink="movies" routerLinkActive="active">Movies</a>
+  </nav>
+  <h1>{{ title }}'s Final Project Greetings Page!</h1>
+  <img alt="Sally the dog" src="../assets/images/Sally.jpg" />
+  <h3>I was born in the {{ city }} in 1996.</h3>
+  <h5>{{ tagline }}</h5>
+  <p>{{ aboutMe }}</p>
+</div>
+<router-outlet></router-outlet>

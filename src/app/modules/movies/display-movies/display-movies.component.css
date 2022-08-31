@@ -1,0 +1,30 @@
+.movies {
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  color: darkred;
+  font-size: 50px;
+}
+
+h2 {
+  color: darkred;
+  font-size: 50px;
+}
+
+img:hover {
+  transform: scaleX(-1);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
